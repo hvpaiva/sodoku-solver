@@ -16,6 +16,6 @@ extra-source-files:  README.md
 
 executable sodoku
   hs-source-dirs:      src
-  main-is:             Main.hs
+  main-is:             Base.hs
   default-language:    Haskell2010
   build-depends:       base >= 4.7 && < 5
